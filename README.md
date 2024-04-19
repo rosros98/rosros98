@@ -1,5 +1,5 @@
-- 👋 Hi, I’m rosie
-- 👀 You can find some of my university works here!
+- 👋 Hi, I’m rosie!
+- 👀 You can find some of my projects here.
 - 🌱 I’m still learning...
 
 
